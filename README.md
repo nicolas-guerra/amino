@@ -5,7 +5,7 @@ This repository is the official implementation of the AMINO architecture in the 
 #### AMINO Architecture
 <br/><br/>
 
-<img src="Images/AMINO.pdf" width="800" >
+<img src="Images/AMINO.png" width="800" >
 
 <br/><br/>
 
